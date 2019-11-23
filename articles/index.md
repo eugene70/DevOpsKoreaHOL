@@ -1,3 +1,5 @@
+# 오늘은 11월 23일입니다. 토요일이지요.
+
 # Azure DevOps HOL
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
